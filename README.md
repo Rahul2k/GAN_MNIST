@@ -20,7 +20,7 @@ The whole adversarial algorithm uses 3 models :
     Conv2D layers perform strided convolutions to generate feature vector, which in turn is used for classification.
     
 ### Generator Trainer :
-    To implement the adversarial game, the discriminator weights need to be fixed. Hence a separate model for generator training is required.
+    To implement the adversarial game, the discriminator weights need to be fixed. <br> Hence a separate model for generator training is required.
     
     
 ## Results :
